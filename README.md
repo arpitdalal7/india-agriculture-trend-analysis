@@ -1,8 +1,16 @@
 # Agricultural Production Trend Analysis in India 📊🌾
 
+<p align="center">
+  <a href="./data"><img src="https://img.shields.io/badge/Data%20Folder-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Folder"></a>
+  <a href="./dashboard"><img src="https://img.shields.io/badge/Dashboard-0A66C2?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Dashboard"></a>
+  <a href="./notebooks"><img src="https://img.shields.io/badge/Notebooks-22C55E?style=for-the-badge&logo=jupyter&logoColor=white" alt="Notebooks"></a>
+  <a href="./reports"><img src="https://img.shields.io/badge/Reports-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Reports"></a>
+</p>
+
 This project explores **agricultural production trends in India** using an interactive BI dashboard. It analyzes how different crop groups (food grains, oilseeds, pulses, and commercial crops) contribute to India’s agriculture, and how production is distributed across states and crop types.
 
 The goal is to provide a **data-driven view of India’s agriculture** within the context of the **global and Indian economy**, and to highlight regional and crop-wise specializations.
+
 
 ---
 
