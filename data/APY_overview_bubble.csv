@@ -1,0 +1,479 @@
+cropname,statename,cropyear,seasonname,Area (Lakh Ha),Production (Lakh Tonnes),Yield (Kg/Ha),Source
+Bajra,All India,1966-67,Total,122.4,44.68,365.0,DA&FW
+Bajra,All India,1967-68,Total,128.08,51.85,405.0,DA&FW
+Bajra,All India,1968-69,Total,120.52,38.02,315.0,DA&FW
+Bajra,All India,1969-70,Total,124.93,53.27,426.0,DA&FW
+Bajra,All India,1970-71,Total,129.13,80.29,622.0,DA&FW
+Bajra,All India,1971-72,Total,117.73,53.19,452.0,DA&FW
+Bajra,All India,1972-73,Total,118.17,39.29,333.0,DA&FW
+Bajra,All India,1973-74,Total,139.33,75.19,540.0,DA&FW
+Bajra,All India,1974-75,Total,112.58,32.72,291.0,DA&FW
+Bajra,All India,1975-76,Total,115.71,57.36,496.0,DA&FW
+Bajra,All India,1976-77,Total,107.51,58.53,544.0,DA&FW
+Bajra,All India,1977-78,Total,111.04,47.3,426.0,DA&FW
+Bajra,All India,1978-79,Total,113.93,55.66,489.0,DA&FW
+Bajra,All India,1979-80,Total,105.79,40.48,383.0,DA&FW
+Bajra,All India,1980-81,Total,116.57,53.43,458.0,DA&FW
+Bajra,All India,1981-82,Total,117.84,55.37,470.0,DA&FW
+Bajra,All India,1982-83,Total,109.42,51.31,469.0,DA&FW
+Bajra,All India,1983-84,Total,118.32,77.26,653.0,DA&FW
+Bajra,All India,1984-85,Total,106.19,60.46,569.0,DA&FW
+Bajra,All India,1985-86,Total,106.52,36.64,344.0,DA&FW
+Bajra,All India,1986-87,Total,112.66,45.14,401.0,DA&FW
+Bajra,All India,1987-88,Total,87.13,32.98,378.0,DA&FW
+Bajra,All India,1988-89,Total,120.46,77.8,646.0,DA&FW
+Bajra,All India,1989-90,Total,109.0,66.49,610.0,DA&FW
+Bajra,All India,1990-91,Total,104.76,68.94,658.0,DA&FW
+Bajra,All India,1991-92,Total,100.28,46.65,465.0,DA&FW
+Bajra,All India,1992-93,Total,106.17,88.81,836.0,DA&FW
+Bajra,All India,1993-94,Total,99.06,49.74,502.0,DA&FW
+Bajra,All India,1994-95,Total,102.23,71.6,700.0,DA&FW
+Bajra,All India,1995-96,Total,93.19,53.81,577.0,DA&FW
+Bajra,All India,1996-97,Total,99.8,78.7,789.0,DA&FW
+Bajra,All India,1997-98,Total,98.88,76.44,773.0,DA&FW
+Bajra,All India,1998-99,Total,92.97,69.56,748.0,DA&FW
+Bajra,All India,1999-00,Total,88.97,57.82,650.0,DA&FW
+Bajra,All India,2000-01,Total,98.29,67.59,688.0,DA&FW
+Bajra,All India,2001-02,Total,95.29,82.84,869.0,DA&FW
+Bajra,All India,2002-03,Total,77.4,47.19,610.0,DA&FW
+Bajra,All India,2003-04,Total,106.12,121.09,1141.0,DA&FW
+Bajra,All India,2004-05,Total,92.33,79.31,859.0,DA&FW
+Bajra,All India,2005-06,Total,95.81,76.84,802.0,DA&FW
+Bajra,All India,2006-07,Total,95.08,84.24,886.0,DA&FW
+Bajra,All India,2007-08,Total,95.71,99.7,1042.0,DA&FW
+Bajra,All India,2008-09,Total,87.53,88.87,1015.0,DA&FW
+Bajra,All India,2009-10,Total,89.04,65.06,731.0,DA&FW
+Bajra,All India,2010-11,Total,96.12,103.7,1079.0,DA&FW
+Bajra,All India,2011-12,Total,87.77,102.76,1171.0,DA&FW
+Bajra,All India,2012-13,Total,72.97,87.42,1198.0,DA&FW
+Bajra,All India,2013-14,Total,78.11,92.5,1184.0,DA&FW
+Bajra,All India,2014-15,Total,73.18,91.84,1255.0,DA&FW
+Bajra,All India,2015-16,Total,71.29,80.67,1132.0,DA&FW
+Bajra,All India,2016-17,Total,74.59,97.3,1305.0,DA&FW
+Bajra,All India,2017-18,Total,74.81,92.09,1231.0,DA&FW
+Bajra,All India,2018-19,Total,71.05,86.64,1219.0,DA&FW
+Bajra,All India,2019-20,Total,75.43,103.63,1374.0,DA&FW
+Bajra,All India,2020-21,Total,76.52,108.63,1420.0,DA&FW
+Bajra,All India,2021-22,Total,68.41,97.81,1430.0,DA&FW
+Bajra,All India,2022-23,Total,75.72,114.31,1510.0,DA&FW
+Bajra,All India,2023-24,Total,73.75,107.16,1453.0,DA&FW
+Bajra,All India,2024-25,Total,73.57,112.05,1523.0,DA&FW
+Bajra,All India,2025-26,Total,65.57,96.48,1471.0,DA&FW
+Barley,All India,1966-67,Total,28.25,23.48,831.0,DA&FW
+Barley,All India,1967-68,Total,33.75,35.04,1038.0,DA&FW
+Barley,All India,1968-69,Total,27.58,24.24,879.0,DA&FW
+Barley,All India,1969-70,Total,27.65,27.16,982.0,DA&FW
+Barley,All India,1970-71,Total,25.55,27.84,1090.0,DA&FW
+Barley,All India,1971-72,Total,24.55,25.77,1050.0,DA&FW
+Barley,All India,1972-73,Total,24.49,23.79,971.0,DA&FW
+Barley,All India,1973-74,Total,26.48,23.71,895.0,DA&FW
+Barley,All India,1974-75,Total,28.85,31.35,1087.0,DA&FW
+Barley,All India,1975-76,Total,28.02,31.92,1139.0,DA&FW
+Barley,All India,1976-77,Total,22.41,23.44,1046.0,DA&FW
+Barley,All India,1977-78,Total,20.01,23.11,1155.0,DA&FW
+Barley,All India,1978-79,Total,18.28,21.42,1172.0,DA&FW
+Barley,All India,1979-80,Total,17.71,16.24,917.0,DA&FW
+Barley,All India,1980-81,Total,18.07,22.93,1269.0,DA&FW
+Barley,All India,1981-82,Total,17.28,19.93,1153.0,DA&FW
+Barley,All India,1982-83,Total,14.83,18.67,1259.0,DA&FW
+Barley,All India,1983-84,Total,13.86,18.34,1323.0,DA&FW
+Barley,All India,1984-85,Total,12.53,15.56,1242.0,DA&FW
+Barley,All India,1985-86,Total,13.69,19.62,1434.0,DA&FW
+Barley,All India,1986-87,Total,12.25,16.69,1363.0,DA&FW
+Barley,All India,1987-88,Total,11.43,15.77,1380.0,DA&FW
+Barley,All India,1988-89,Total,10.81,17.22,1592.0,DA&FW
+Barley,All India,1989-90,Total,9.91,14.86,1500.0,DA&FW
+Barley,All India,1990-91,Total,9.62,16.32,1697.0,DA&FW
+Barley,All India,1991-92,Total,9.54,16.99,1781.0,DA&FW
+Barley,All India,1992-93,Total,9.16,15.12,1652.0,DA&FW
+Barley,All India,1993-94,Total,7.94,13.13,1653.0,DA&FW
+Barley,All India,1994-95,Total,8.91,17.27,1939.0,DA&FW
+Barley,All India,1995-96,Total,8.24,15.1,1834.0,DA&FW
+Barley,All India,1996-97,Total,7.57,14.62,1930.0,DA&FW
+Barley,All India,1997-98,Total,8.58,16.79,1958.0,DA&FW
+Barley,All India,1998-99,Total,7.93,15.38,1940.0,DA&FW
+Barley,All India,1999-00,Total,7.25,14.47,1997.0,DA&FW
+Barley,All India,2000-01,Total,7.78,14.31,1840.0,DA&FW
+Barley,All India,2001-02,Total,6.6,14.25,2160.0,DA&FW
+Barley,All India,2002-03,Total,7.02,14.07,2006.0,DA&FW
+Barley,All India,2003-04,Total,6.57,12.98,1975.0,DA&FW
+Barley,All India,2004-05,Total,6.17,12.07,1958.0,DA&FW
+Barley,All India,2005-06,Total,6.3,12.21,1938.0,DA&FW
+Barley,All India,2006-07,Total,6.46,13.28,2055.0,DA&FW
+Barley,All India,2007-08,Total,6.03,11.96,1985.0,DA&FW
+Barley,All India,2008-09,Total,7.06,16.89,2394.0,DA&FW
+Barley,All India,2009-10,Total,6.24,13.55,2172.0,DA&FW
+Barley,All India,2010-11,Total,7.05,16.63,2357.0,DA&FW
+Barley,All India,2011-12,Total,6.43,16.19,2516.0,DA&FW
+Barley,All India,2012-13,Total,6.95,17.52,2521.0,DA&FW
+Barley,All India,2013-14,Total,6.74,18.31,2718.0,DA&FW
+Barley,All India,2014-15,Total,7.07,16.13,2280.0,DA&FW
+Barley,All India,2015-16,Total,5.89,14.38,2439.0,DA&FW
+Barley,All India,2016-17,Total,6.56,17.47,2663.0,DA&FW
+Barley,All India,2017-18,Total,6.61,17.81,2695.0,DA&FW
+Barley,All India,2018-19,Total,5.76,16.33,2837.0,DA&FW
+Barley,All India,2019-20,Total,5.9,17.22,2920.0,DA&FW
+Barley,All India,2020-21,Total,5.92,16.56,2796.0,DA&FW
+Barley,All India,2021-22,Total,4.53,13.71,3025.0,DA&FW
+Barley,All India,2022-23,Total,6.28,19.13,3044.0,DA&FW
+Barley,All India,2023-24,Total,5.51,16.99,3082.0,DA&FW
+Barley,All India,2024-25,Total,6.08,19.19,3159.0,DA&FW
+Jowar,All India,1966-67,Total,180.54,92.24,511.0,DA&FW
+Jowar,All India,1967-68,Total,184.23,100.48,545.0,DA&FW
+Jowar,All India,1968-69,Total,187.31,98.04,523.0,DA&FW
+Jowar,All India,1969-70,Total,186.05,97.21,522.0,DA&FW
+Jowar,All India,1970-71,Total,173.74,81.04,466.0,DA&FW
+Jowar,All India,1971-72,Total,167.77,77.22,460.0,DA&FW
+Jowar,All India,1972-73,Total,155.13,69.68,449.0,DA&FW
+Jowar,All India,1973-74,Total,167.16,90.97,544.0,DA&FW
+Jowar,All India,1974-75,Total,161.89,104.14,643.0,DA&FW
+Jowar,All India,1975-76,Total,160.92,95.04,591.0,DA&FW
+Jowar,All India,1976-77,Total,157.72,105.24,667.0,DA&FW
+Jowar,All India,1977-78,Total,163.18,120.64,739.0,DA&FW
+Jowar,All India,1978-79,Total,161.46,114.31,708.0,DA&FW
+Jowar,All India,1979-80,Total,166.74,116.48,699.0,DA&FW
+Jowar,All India,1980-81,Total,158.09,104.31,660.0,DA&FW
+Jowar,All India,1981-82,Total,165.99,120.62,727.0,DA&FW
+Jowar,All India,1982-83,Total,163.76,107.53,657.0,DA&FW
+Jowar,All India,1983-84,Total,164.32,119.19,725.0,DA&FW
+Jowar,All India,1984-85,Total,159.39,114.02,715.0,DA&FW
+Jowar,All India,1985-86,Total,160.97,101.97,633.0,DA&FW
+Jowar,All India,1986-87,Total,159.48,91.85,576.0,DA&FW
+Jowar,All India,1987-88,Total,159.99,121.96,762.0,DA&FW
+Jowar,All India,1988-89,Total,145.99,101.7,697.0,DA&FW
+Jowar,All India,1989-90,Total,148.38,128.98,869.0,DA&FW
+Jowar,All India,1990-91,Total,143.57,116.81,814.0,DA&FW
+Jowar,All India,1991-92,Total,123.6,80.99,655.0,DA&FW
+Jowar,All India,1992-93,Total,130.41,128.06,982.0,DA&FW
+Jowar,All India,1993-94,Total,127.11,114.15,898.0,DA&FW
+Jowar,All India,1994-95,Total,115.14,89.65,779.0,DA&FW
+Jowar,All India,1995-96,Total,113.26,93.27,823.0,DA&FW
+Jowar,All India,1996-97,Total,114.31,109.39,957.0,DA&FW
+Jowar,All India,1997-98,Total,108.01,75.28,697.0,DA&FW
+Jowar,All India,1998-99,Total,97.94,84.15,859.0,DA&FW
+Jowar,All India,1999-00,Total,102.51,86.85,847.0,DA&FW
+Jowar,All India,2000-01,Total,98.56,75.29,764.0,DA&FW
+Jowar,All India,2001-02,Total,97.95,75.57,771.0,DA&FW
+Jowar,All India,2002-03,Total,93.0,70.12,754.0,DA&FW
+Jowar,All India,2003-04,Total,93.31,66.81,716.0,DA&FW
+Jowar,All India,2004-05,Total,90.92,72.44,797.0,DA&FW
+Jowar,All India,2005-06,Total,86.67,76.3,880.0,DA&FW
+Jowar,All India,2006-07,Total,84.73,71.51,844.0,DA&FW
+Jowar,All India,2007-08,Total,77.64,79.26,1021.0,DA&FW
+Jowar,All India,2008-09,Total,75.31,72.46,962.0,DA&FW
+Jowar,All India,2009-10,Total,77.87,66.98,860.0,DA&FW
+Jowar,All India,2010-11,Total,73.82,70.03,949.0,DA&FW
+Jowar,All India,2011-12,Total,62.45,59.79,957.0,DA&FW
+Jowar,All India,2012-13,Total,62.14,52.81,850.0,DA&FW
+Jowar,All India,2013-14,Total,57.93,55.42,957.0,DA&FW
+Jowar,All India,2014-15,Total,61.62,54.45,884.0,DA&FW
+Jowar,All India,2015-16,Total,60.77,42.38,697.0,DA&FW
+Jowar,All India,2016-17,Total,56.24,45.68,812.0,DA&FW
+Jowar,All India,2017-18,Total,50.24,48.03,956.0,DA&FW
+Jowar,All India,2018-19,Total,40.93,34.75,849.0,DA&FW
+Jowar,All India,2019-20,Total,48.24,47.72,989.0,DA&FW
+Jowar,All India,2020-21,Total,43.78,48.12,1099.0,DA&FW
+Jowar,All India,2021-22,Total,38.01,41.51,1092.0,DA&FW
+Jowar,All India,2022-23,Total,35.35,38.14,1079.0,DA&FW
+Jowar,All India,2023-24,Total,40.76,47.37,1162.0,DA&FW
+Jowar,All India,2024-25,Total,39.95,49.55,1240.0,DA&FW
+Jowar,All India,2025-26,Total,13.0,15.21,1170.0,DA&FW
+Maize,All India,1966-67,Total,50.74,48.94,964.0,DA&FW
+Maize,All India,1967-68,Total,55.83,62.69,1123.0,DA&FW
+Maize,All India,1968-69,Total,57.16,57.01,997.0,DA&FW
+Maize,All India,1969-70,Total,58.62,56.74,968.0,DA&FW
+Maize,All India,1970-71,Total,58.52,74.86,1279.0,DA&FW
+Maize,All India,1971-72,Total,56.68,51.01,900.0,DA&FW
+Maize,All India,1972-73,Total,58.38,63.89,1094.0,DA&FW
+Maize,All India,1973-74,Total,60.15,58.04,965.0,DA&FW
+Maize,All India,1974-75,Total,58.63,55.59,948.0,DA&FW
+Maize,All India,1975-76,Total,60.31,72.56,1203.0,DA&FW
+Maize,All India,1976-77,Total,60.0,63.61,1060.0,DA&FW
+Maize,All India,1977-78,Total,56.82,59.73,1051.0,DA&FW
+Maize,All India,1978-79,Total,57.6,61.99,1076.0,DA&FW
+Maize,All India,1979-80,Total,57.21,56.03,979.0,DA&FW
+Maize,All India,1980-81,Total,60.05,69.57,1159.0,DA&FW
+Maize,All India,1981-82,Total,59.35,68.97,1162.0,DA&FW
+Maize,All India,1982-83,Total,57.2,65.49,1145.0,DA&FW
+Maize,All India,1983-84,Total,58.59,79.22,1352.0,DA&FW
+Maize,All India,1984-85,Total,58.0,84.42,1456.0,DA&FW
+Maize,All India,1985-86,Total,57.97,66.44,1146.0,DA&FW
+Maize,All India,1986-87,Total,59.23,75.93,1282.0,DA&FW
+Maize,All India,1987-88,Total,55.61,57.21,1029.0,DA&FW
+Maize,All India,1988-89,Total,58.97,82.29,1395.0,DA&FW
+Maize,All India,1989-90,Total,59.15,96.51,1632.0,DA&FW
+Maize,All India,1990-91,Total,59.04,89.62,1518.0,DA&FW
+Maize,All India,1991-92,Total,58.59,80.64,1376.0,DA&FW
+Maize,All India,1992-93,Total,59.63,99.94,1676.0,DA&FW
+Maize,All India,1993-94,Total,59.95,96.01,1602.0,DA&FW
+Maize,All India,1994-95,Total,61.36,88.84,1448.0,DA&FW
+Maize,All India,1995-96,Total,59.79,94.64,1583.0,DA&FW
+Maize,All India,1996-97,Total,62.6,107.7,1720.0,DA&FW
+Maize,All India,1997-98,Total,63.21,108.19,1712.0,DA&FW
+Maize,All India,1998-99,Total,62.04,111.48,1797.0,DA&FW
+Maize,All India,1999-00,Total,64.22,115.1,1792.0,DA&FW
+Maize,All India,2000-01,Total,66.11,120.43,1822.0,DA&FW
+Maize,All India,2001-02,Total,65.82,131.6,2000.0,DA&FW
+Maize,All India,2002-03,Total,66.35,111.52,1681.0,DA&FW
+Maize,All India,2003-04,Total,73.43,149.84,2041.0,DA&FW
+Maize,All India,2004-05,Total,74.3,141.72,1907.0,DA&FW
+Maize,All India,2005-06,Total,75.88,147.1,1938.0,DA&FW
+Maize,All India,2006-07,Total,78.94,150.97,1912.0,DA&FW
+Maize,All India,2007-08,Total,81.17,189.55,2335.0,DA&FW
+Maize,All India,2008-09,Total,81.74,197.31,2414.0,DA&FW
+Maize,All India,2009-10,Total,82.62,167.19,2024.0,DA&FW
+Maize,All India,2010-11,Total,85.53,217.26,2540.0,DA&FW
+Maize,All India,2011-12,Total,87.82,217.59,2478.0,DA&FW
+Maize,All India,2012-13,Total,86.73,222.58,2566.0,DA&FW
+Maize,All India,2013-14,Total,90.66,242.6,2676.0,DA&FW
+Maize,All India,2014-15,Total,91.85,241.73,2632.0,DA&FW
+Maize,All India,2015-16,Total,88.06,225.67,2563.0,DA&FW
+Maize,All India,2016-17,Total,96.33,259.0,2689.0,DA&FW
+Maize,All India,2017-18,Total,93.8,287.53,3065.0,DA&FW
+Maize,All India,2018-19,Total,90.27,277.15,3070.0,DA&FW
+Maize,All India,2019-20,Total,95.69,287.66,3006.0,DA&FW
+Maize,All India,2020-21,Total,98.92,316.47,3199.0,DA&FW
+Maize,All India,2021-22,Total,99.58,337.3,3387.0,DA&FW
+Maize,All India,2022-23,Total,107.44,380.85,3545.0,DA&FW
+Maize,All India,2023-24,Total,112.41,376.65,3351.0,DA&FW
+Maize,All India,2024-25,Total,120.91,434.09,3590.0,DA&FW
+Maize,All India,2025-26,Total,97.05,283.03,2916.0,DA&FW
+Ragi,All India,1966-67,Total,19.84,16.31,822.0,DA&FW
+Ragi,All India,1967-68,Total,22.91,18.84,822.0,DA&FW
+Ragi,All India,1968-69,Total,22.38,16.48,736.0,DA&FW
+Ragi,All India,1969-70,Total,27.83,21.17,761.0,DA&FW
+Ragi,All India,1970-71,Total,24.72,21.55,872.0,DA&FW
+Ragi,All India,1971-72,Total,24.25,22.09,911.0,DA&FW
+Ragi,All India,1972-73,Total,23.29,19.23,826.0,DA&FW
+Ragi,All India,1973-74,Total,23.6,20.72,878.0,DA&FW
+Ragi,All India,1974-75,Total,24.64,21.36,867.0,DA&FW
+Ragi,All India,1975-76,Total,26.3,27.97,1064.0,DA&FW
+Ragi,All India,1976-77,Total,24.96,20.45,819.0,DA&FW
+Ragi,All India,1977-78,Total,26.0,28.66,1102.0,DA&FW
+Ragi,All India,1978-79,Total,27.05,32.0,1183.0,DA&FW
+Ragi,All India,1979-80,Total,26.15,27.22,1041.0,DA&FW
+Ragi,All India,1980-81,Total,25.25,24.2,958.0,DA&FW
+Ragi,All India,1981-82,Total,26.1,29.61,1134.0,DA&FW
+Ragi,All India,1982-83,Total,24.12,22.23,922.0,DA&FW
+Ragi,All India,1983-84,Total,25.58,28.31,1107.0,DA&FW
+Ragi,All India,1984-85,Total,23.87,25.3,1060.0,DA&FW
+Ragi,All India,1985-86,Total,24.01,25.18,1049.0,DA&FW
+Ragi,All India,1986-87,Total,24.05,27.08,1126.0,DA&FW
+Ragi,All India,1987-88,Total,22.62,23.19,1025.0,DA&FW
+Ragi,All India,1988-89,Total,23.17,24.1,1040.0,DA&FW
+Ragi,All India,1989-90,Total,23.43,27.67,1181.0,DA&FW
+Ragi,All India,1990-91,Total,21.71,23.4,1078.0,DA&FW
+Ragi,All India,1991-92,Total,21.3,25.82,1212.0,DA&FW
+Ragi,All India,1992-93,Total,19.05,25.31,1328.0,DA&FW
+Ragi,All India,1993-94,Total,18.84,25.97,1378.0,DA&FW
+Ragi,All India,1994-95,Total,17.64,23.42,1328.0,DA&FW
+Ragi,All India,1995-96,Total,17.74,25.01,1410.0,DA&FW
+Ragi,All India,1996-97,Total,17.84,23.4,1312.0,DA&FW
+Ragi,All India,1997-98,Total,16.57,20.87,1260.0,DA&FW
+Ragi,All India,1998-99,Total,17.58,26.08,1483.0,DA&FW
+Ragi,All India,1999-00,Total,16.34,22.9,1401.0,DA&FW
+Ragi,All India,2000-01,Total,17.59,27.32,1553.0,DA&FW
+Ragi,All India,2001-02,Total,16.47,23.75,1442.0,DA&FW
+Ragi,All India,2002-03,Total,14.15,13.16,930.0,DA&FW
+Ragi,All India,2003-04,Total,16.66,19.66,1180.0,DA&FW
+Ragi,All India,2004-05,Total,15.53,24.32,1567.0,DA&FW
+Ragi,All India,2005-06,Total,15.34,23.54,1534.0,DA&FW
+Ragi,All India,2006-07,Total,11.77,14.44,1226.0,DA&FW
+Ragi,All India,2007-08,Total,13.87,21.52,1552.0,DA&FW
+Ragi,All India,2008-09,Total,13.81,20.4,1477.0,DA&FW
+Ragi,All India,2009-10,Total,12.68,18.88,1489.0,DA&FW
+Ragi,All India,2010-11,Total,12.86,21.93,1705.0,DA&FW
+Ragi,All India,2011-12,Total,11.76,19.29,1641.0,DA&FW
+Ragi,All India,2012-13,Total,11.31,15.74,1392.0,DA&FW
+Ragi,All India,2013-14,Total,11.94,19.83,1661.0,DA&FW
+Ragi,All India,2014-15,Total,12.08,20.61,1706.0,DA&FW
+Ragi,All India,2015-16,Total,11.38,18.22,1601.0,DA&FW
+Ragi,All India,2016-17,Total,10.16,13.85,1363.0,DA&FW
+Ragi,All India,2017-18,Total,11.94,19.85,1662.0,DA&FW
+Ragi,All India,2018-19,Total,8.91,12.39,1390.0,DA&FW
+Ragi,All India,2019-20,Total,10.04,17.55,1747.0,DA&FW
+Ragi,All India,2020-21,Total,11.59,19.98,1724.0,DA&FW
+Ragi,All India,2021-22,Total,12.18,17.01,1396.0,DA&FW
+Ragi,All India,2022-23,Total,11.63,16.91,1454.0,DA&FW
+Ragi,All India,2023-24,Total,12.15,16.7,1375.0,DA&FW
+Ragi,All India,2024-25,Total,12.48,19.77,1584.0,DA&FW
+Ragi,All India,2025-26,Total,10.8,15.13,1401.0,DA&FW
+Rice,All India,1966-67,Total,352.51,304.38,863.0,DA&FW
+Rice,All India,1967-68,Total,364.37,376.12,1032.0,DA&FW
+Rice,All India,1968-69,Total,369.66,397.61,1076.0,DA&FW
+Rice,All India,1969-70,Total,376.7,404.3,1073.0,DA&FW
+Rice,All India,1970-71,Total,375.87,422.25,1123.0,DA&FW
+Rice,All India,1971-72,Total,377.58,430.69,1141.0,DA&FW
+Rice,All India,1972-73,Total,366.88,392.45,1070.0,DA&FW
+Rice,All India,1973-74,Total,382.85,440.51,1151.0,DA&FW
+Rice,All India,1974-75,Total,378.88,395.79,1045.0,DA&FW
+Rice,All India,1975-76,Total,394.75,487.4,1235.0,DA&FW
+Rice,All India,1976-77,Total,385.11,419.17,1088.0,DA&FW
+Rice,All India,1977-78,Total,402.83,526.7,1308.0,DA&FW
+Rice,All India,1978-79,Total,404.82,537.73,1328.0,DA&FW
+Rice,All India,1979-80,Total,394.14,423.3,1074.0,DA&FW
+Rice,All India,1980-81,Total,401.52,536.31,1336.0,DA&FW
+Rice,All India,1981-82,Total,407.08,532.48,1308.0,DA&FW
+Rice,All India,1982-83,Total,382.62,471.16,1231.0,DA&FW
+Rice,All India,1983-84,Total,412.44,600.97,1457.0,DA&FW
+Rice,All India,1984-85,Total,411.59,583.37,1417.0,DA&FW
+Rice,All India,1985-86,Total,411.9,639.49,1553.0,DA&FW
+Rice,All India,1986-87,Total,411.67,605.57,1471.0,DA&FW
+Rice,All India,1987-88,Total,388.06,568.63,1465.0,DA&FW
+Rice,All India,1988-89,Total,417.36,704.89,1689.0,DA&FW
+Rice,All India,1989-90,Total,421.67,735.73,1745.0,DA&FW
+Rice,All India,1990-91,Total,426.87,742.91,1740.0,DA&FW
+Rice,All India,1991-92,Total,426.49,746.78,1751.0,DA&FW
+Rice,All India,1992-93,Total,417.75,728.68,1744.0,DA&FW
+Rice,All India,1993-94,Total,425.41,802.98,1888.0,DA&FW
+Rice,All India,1994-95,Total,428.14,818.14,1911.0,DA&FW
+Rice,All India,1995-96,Total,428.37,769.75,1797.0,DA&FW
+Rice,All India,1996-97,Total,434.33,729.73,1680.0,DA&FW
+Rice,All India,1997-98,Total,434.47,825.45,1900.0,DA&FW
+Rice,All India,1998-99,Total,448.02,860.77,1921.0,DA&FW
+Rice,All India,1999-00,Total,451.62,896.83,1986.0,DA&FW
+Rice,All India,2000-01,Total,447.12,849.77,1901.0,DA&FW
+Rice,All India,2001-02,Total,449.04,933.4,2079.0,DA&FW
+Rice,All India,2002-03,Total,411.76,718.2,1744.0,DA&FW
+Rice,All India,2003-04,Total,425.93,885.26,2078.0,DA&FW
+Rice,All India,2004-05,Total,419.07,831.32,1984.0,DA&FW
+Rice,All India,2005-06,Total,436.6,917.93,2102.0,DA&FW
+Rice,All India,2006-07,Total,438.14,933.55,2131.0,DA&FW
+Rice,All India,2007-08,Total,439.14,966.93,2202.0,DA&FW
+Rice,All India,2008-09,Total,455.37,991.83,2178.0,DA&FW
+Rice,All India,2009-10,Total,419.18,890.83,2125.0,DA&FW
+Rice,All India,2010-11,Total,428.62,959.7,2239.0,DA&FW
+Rice,All India,2011-12,Total,440.06,1053.01,2393.0,DA&FW
+Rice,All India,2012-13,Total,427.54,1052.32,2461.0,DA&FW
+Rice,All India,2013-14,Total,441.36,1066.46,2416.0,DA&FW
+Rice,All India,2014-15,Total,441.11,1054.82,2391.0,DA&FW
+Rice,All India,2015-16,Total,434.99,1044.08,2400.0,DA&FW
+Rice,All India,2016-17,Total,439.93,1096.98,2494.0,DA&FW
+Rice,All India,2017-18,Total,437.74,1127.58,2576.0,DA&FW
+Rice,All India,2018-19,Total,441.56,1164.78,2638.0,DA&FW
+Rice,All India,2019-20,Total,436.62,1188.7,2722.0,DA&FW
+Rice,All India,2020-21,Total,457.69,1243.68,2717.0,DA&FW
+Rice,All India,2021-22,Total,462.79,1294.71,2798.0,DA&FW
+Rice,All India,2022-23,Total,478.32,1357.55,2838.0,DA&FW
+Rice,All India,2023-24,Total,478.28,1378.25,2882.0,DA&FW
+Rice,All India,2024-25,Total,512.67,1501.84,2929.0,DA&FW
+Rice,All India,2025-26,Total,441.7,1245.04,2819.0,DA&FW
+Small Millets,All India,1966-67,Total,45.84,14.9,325.0,DA&FW
+Small Millets,All India,1967-68,Total,48.57,19.1,393.0,DA&FW
+Small Millets,All India,1968-69,Total,47.46,18.07,381.0,DA&FW
+Small Millets,All India,1969-70,Total,47.33,17.32,366.0,DA&FW
+Small Millets,All India,1970-71,Total,47.83,19.88,416.0,DA&FW
+Small Millets,All India,1971-72,Total,44.77,16.69,373.0,DA&FW
+Small Millets,All India,1972-73,Total,42.65,15.52,364.0,DA&FW
+Small Millets,All India,1973-74,Total,45.67,19.69,431.0,DA&FW
+Small Millets,All India,1974-75,Total,44.66,16.16,362.0,DA&FW
+Small Millets,All India,1975-76,Total,46.73,19.27,412.0,DA&FW
+Small Millets,All India,1976-77,Total,46.8,17.52,374.0,DA&FW
+Small Millets,All India,1977-78,Total,45.74,20.7,453.0,DA&FW
+Small Millets,All India,1978-79,Total,43.97,18.94,431.0,DA&FW
+Small Millets,All India,1979-80,Total,40.02,14.25,356.0,DA&FW
+Small Millets,All India,1980-81,Total,39.76,15.75,396.0,DA&FW
+Small Millets,All India,1981-82,Total,37.86,16.38,433.0,DA&FW
+Small Millets,All India,1982-83,Total,34.99,12.29,351.0,DA&FW
+Small Millets,All India,1983-84,Total,36.37,16.75,461.0,DA&FW
+Small Millets,All India,1984-85,Total,32.14,11.94,372.0,DA&FW
+Small Millets,All India,1985-86,Total,31.55,12.17,386.0,DA&FW
+Small Millets,All India,1986-87,Total,29.75,11.62,390.0,DA&FW
+Small Millets,All India,1987-88,Total,28.76,12.49,434.0,DA&FW
+Small Millets,All India,1988-89,Total,27.43,11.64,424.0,DA&FW
+Small Millets,All India,1989-90,Total,27.03,13.06,483.0,DA&FW
+Small Millets,All India,1990-91,Total,24.47,11.9,486.0,DA&FW
+Small Millets,All India,1991-92,Total,20.88,8.82,423.0,DA&FW
+Small Millets,All India,1992-93,Total,19.83,8.69,438.0,DA&FW
+Small Millets,All India,1993-94,Total,18.88,9.17,486.0,DA&FW
+Small Millets,All India,1994-95,Total,17.92,7.98,445.0,DA&FW
+Small Millets,All India,1995-96,Total,16.62,7.79,469.0,DA&FW
+Small Millets,All India,1996-97,Total,16.01,7.28,455.0,DA&FW
+Small Millets,All India,1997-98,Total,15.29,6.4,418.0,DA&FW
+Small Millets,All India,1998-99,Total,14.95,6.71,449.0,DA&FW
+Small Millets,All India,1999-00,Total,14.11,6.18,438.0,DA&FW
+Small Millets,All India,2000-01,Total,14.24,5.87,412.0,DA&FW
+Small Millets,All India,2001-02,Total,13.11,5.77,440.0,DA&FW
+Small Millets,All India,2002-03,Total,12.01,4.59,383.0,DA&FW
+Small Millets,All India,2003-04,Total,11.91,5.64,473.0,DA&FW
+Small Millets,All India,2004-05,Total,11.01,4.78,434.0,DA&FW
+Small Millets,All India,2005-06,Total,10.64,4.72,443.0,DA&FW
+Small Millets,All India,2006-07,Total,10.1,4.8,475.0,DA&FW
+Small Millets,All India,2007-08,Total,10.39,5.51,530.0,DA&FW
+Small Millets,All India,2008-09,Total,9.05,4.45,491.0,DA&FW
+Small Millets,All India,2009-10,Total,8.31,3.82,460.0,DA&FW
+Small Millets,All India,2010-11,Total,8.0,4.42,553.0,DA&FW
+Small Millets,All India,2011-12,Total,7.99,4.52,565.0,DA&FW
+Small Millets,All India,2012-13,Total,7.54,4.36,578.0,DA&FW
+Small Millets,All India,2013-14,Total,6.82,4.3,630.0,DA&FW
+Small Millets,All India,2014-15,Total,5.9,3.86,654.0,DA&FW
+Small Millets,All India,2015-16,Total,6.5,3.91,602.0,DA&FW
+Small Millets,All India,2016-17,Total,6.19,4.42,714.0,DA&FW
+Small Millets,All India,2017-18,Total,5.46,4.39,804.0,DA&FW
+Small Millets,All India,2018-19,Total,4.54,3.33,734.0,DA&FW
+Small Millets,All India,2019-20,Total,4.58,3.71,809.0,DA&FW
+Small Millets,All India,2020-21,Total,4.44,3.47,781.0,DA&FW
+Small Millets,All India,2021-22,Total,4.29,3.67,857.0,DA&FW
+Small Millets,All India,2022-23,Total,4.28,3.84,898.0,DA&FW
+Small Millets,All India,2023-24,Total,4.8,4.49,935.0,DA&FW
+Small Millets,All India,2024-25,Total,4.55,4.56,1001.0,DA&FW
+Small Millets,All India,2025-26,Total,4.67,4.29,917.0,DA&FW
+Wheat,All India,1966-67,Total,128.38,113.93,887.0,DA&FW
+Wheat,All India,1967-68,Total,149.98,165.4,1103.0,DA&FW
+Wheat,All India,1968-69,Total,159.58,186.52,1169.0,DA&FW
+Wheat,All India,1969-70,Total,166.26,200.93,1209.0,DA&FW
+Wheat,All India,1970-71,Total,182.41,238.33,1307.0,DA&FW
+Wheat,All India,1971-72,Total,191.39,264.1,1380.0,DA&FW
+Wheat,All India,1972-73,Total,194.64,247.35,1271.0,DA&FW
+Wheat,All India,1973-74,Total,185.83,217.78,1172.0,DA&FW
+Wheat,All India,1974-75,Total,180.1,241.04,1338.0,DA&FW
+Wheat,All India,1975-76,Total,204.54,288.46,1410.0,DA&FW
+Wheat,All India,1976-77,Total,209.22,290.1,1387.0,DA&FW
+Wheat,All India,1977-78,Total,214.56,317.49,1480.0,DA&FW
+Wheat,All India,1978-79,Total,226.41,355.08,1568.0,DA&FW
+Wheat,All India,1979-80,Total,221.72,318.3,1436.0,DA&FW
+Wheat,All India,1980-81,Total,222.79,363.13,1630.0,DA&FW
+Wheat,All India,1981-82,Total,221.44,374.52,1691.0,DA&FW
+Wheat,All India,1982-83,Total,235.67,427.94,1816.0,DA&FW
+Wheat,All India,1983-84,Total,246.72,454.76,1843.0,DA&FW
+Wheat,All India,1984-85,Total,235.65,440.69,1870.0,DA&FW
+Wheat,All India,1985-86,Total,229.97,470.52,2046.0,DA&FW
+Wheat,All India,1986-87,Total,231.31,443.23,1916.0,DA&FW
+Wheat,All India,1987-88,Total,230.63,461.69,2002.0,DA&FW
+Wheat,All India,1988-89,Total,241.09,541.1,2244.0,DA&FW
+Wheat,All India,1989-90,Total,235.02,498.5,2121.0,DA&FW
+Wheat,All India,1990-91,Total,241.67,551.35,2281.0,DA&FW
+Wheat,All India,1991-92,Total,232.62,556.9,2394.0,DA&FW
+Wheat,All India,1992-93,Total,245.89,572.1,2327.0,DA&FW
+Wheat,All India,1993-94,Total,251.47,598.4,2380.0,DA&FW
+Wheat,All India,1994-95,Total,257.0,657.67,2559.0,DA&FW
+Wheat,All India,1995-96,Total,250.11,620.97,2483.0,DA&FW
+Wheat,All India,1996-97,Total,258.87,693.5,2679.0,DA&FW
+Wheat,All India,1997-98,Total,266.96,663.5,2485.0,DA&FW
+Wheat,All India,1998-99,Total,275.23,712.88,2590.0,DA&FW
+Wheat,All India,1999-00,Total,274.86,763.69,2778.0,DA&FW
+Wheat,All India,2000-01,Total,257.31,696.81,2708.0,DA&FW
+Wheat,All India,2001-02,Total,263.45,727.66,2762.0,DA&FW
+Wheat,All India,2002-03,Total,251.96,657.61,2610.0,DA&FW
+Wheat,All India,2003-04,Total,265.95,721.56,2713.0,DA&FW
+Wheat,All India,2004-05,Total,263.83,686.37,2602.0,DA&FW
+Wheat,All India,2005-06,Total,264.84,693.55,2619.0,DA&FW
+Wheat,All India,2006-07,Total,279.95,758.07,2708.0,DA&FW
+Wheat,All India,2007-08,Total,280.39,785.7,2802.0,DA&FW
+Wheat,All India,2008-09,Total,277.52,806.79,2907.0,DA&FW
+Wheat,All India,2009-10,Total,284.57,808.04,2839.0,DA&FW
+Wheat,All India,2010-11,Total,290.69,868.74,2989.0,DA&FW
+Wheat,All India,2011-12,Total,298.65,948.82,3177.0,DA&FW
+Wheat,All India,2012-13,Total,300.03,935.06,3117.0,DA&FW
+Wheat,All India,2013-14,Total,304.73,958.5,3145.0,DA&FW
+Wheat,All India,2014-15,Total,314.66,865.27,2750.0,DA&FW
+Wheat,All India,2015-16,Total,304.18,922.88,3034.0,DA&FW
+Wheat,All India,2016-17,Total,307.85,985.1,3200.0,DA&FW
+Wheat,All India,2017-18,Total,296.51,998.7,3368.0,DA&FW
+Wheat,All India,2018-19,Total,293.19,1035.96,3533.0,DA&FW
+Wheat,All India,2019-20,Total,313.57,1078.61,3440.0,DA&FW
+Wheat,All India,2020-21,Total,311.25,1095.86,3521.0,DA&FW
+Wheat,All India,2021-22,Total,304.59,1077.42,3537.0,DA&FW
+Wheat,All India,2022-23,Total,314.01,1105.54,3521.0,DA&FW
+Wheat,All India,2023-24,Total,318.33,1132.92,3559.0,DA&FW
+Wheat,All India,2024-25,Total,328.04,1179.45,3595.0,DA&FW

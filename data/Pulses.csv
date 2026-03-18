@@ -1,0 +1,329 @@
+cropname,statename,cropyear,seasonname,Area (Lakh Ha),Production (Lakh Tonnes),Yield (Kg/Ha),Source
+Gram,All India,1966-67,Total,80.03,36.22,453.0,DA&FW
+Gram,All India,1967-68,Total,82.57,59.72,723.0,DA&FW
+Gram,All India,1968-69,Total,71.06,43.1,607.0,DA&FW
+Gram,All India,1969-70,Total,77.52,55.46,715.0,DA&FW
+Gram,All India,1970-71,Total,78.39,51.99,663.0,DA&FW
+Gram,All India,1971-72,Total,79.12,50.81,642.0,DA&FW
+Gram,All India,1972-73,Total,69.68,45.37,651.0,DA&FW
+Gram,All India,1973-74,Total,77.61,40.99,528.0,DA&FW
+Gram,All India,1974-75,Total,70.42,40.15,570.0,DA&FW
+Gram,All India,1975-76,Total,83.2,58.8,707.0,DA&FW
+Gram,All India,1976-77,Total,79.75,54.24,680.0,DA&FW
+Gram,All India,1977-78,Total,79.74,54.1,678.0,DA&FW
+Gram,All India,1978-79,Total,77.08,57.39,745.0,DA&FW
+Gram,All India,1979-80,Total,69.85,33.56,481.0,DA&FW
+Gram,All India,1980-81,Total,65.85,43.28,657.0,DA&FW
+Gram,All India,1981-82,Total,78.68,46.42,590.0,DA&FW
+Gram,All India,1982-83,Total,73.99,52.9,715.0,DA&FW
+Gram,All India,1983-84,Total,71.61,47.51,663.0,DA&FW
+Gram,All India,1984-85,Total,69.04,45.61,661.0,DA&FW
+Gram,All India,1985-86,Total,78.05,57.88,742.0,DA&FW
+Gram,All India,1986-87,Total,69.84,45.32,649.0,DA&FW
+Gram,All India,1987-88,Total,55.67,36.26,651.0,DA&FW
+Gram,All India,1988-89,Total,68.1,51.29,753.0,DA&FW
+Gram,All India,1989-90,Total,64.71,42.17,652.0,DA&FW
+Gram,All India,1990-91,Total,75.21,53.56,712.0,DA&FW
+Gram,All India,1991-92,Total,55.8,41.21,739.0,DA&FW
+Gram,All India,1992-93,Total,64.54,44.17,684.0,DA&FW
+Gram,All India,1993-94,Total,63.59,49.81,783.0,DA&FW
+Gram,All India,1994-95,Total,75.43,64.36,853.0,DA&FW
+Gram,All India,1995-96,Total,71.16,49.79,700.0,DA&FW
+Gram,All India,1996-97,Total,68.47,55.7,814.0,DA&FW
+Gram,All India,1997-98,Total,75.63,61.32,811.0,DA&FW
+Gram,All India,1998-99,Total,84.69,68.01,803.0,DA&FW
+Gram,All India,1999-00,Total,61.46,51.18,833.0,DA&FW
+Gram,All India,2000-01,Total,51.85,38.55,744.0,DA&FW
+Gram,All India,2001-02,Total,64.16,54.73,853.0,DA&FW
+Gram,All India,2002-03,Total,59.06,42.37,717.0,DA&FW
+Gram,All India,2003-04,Total,70.48,57.18,811.0,DA&FW
+Gram,All India,2004-05,Total,67.15,54.69,815.0,DA&FW
+Gram,All India,2005-06,Total,69.26,56.0,808.0,DA&FW
+Gram,All India,2006-07,Total,74.94,63.34,845.0,DA&FW
+Gram,All India,2007-08,Total,75.44,57.49,762.0,DA&FW
+Gram,All India,2008-09,Total,78.93,70.6,895.0,DA&FW
+Gram,All India,2009-10,Total,81.69,74.76,915.0,DA&FW
+Gram,All India,2010-11,Total,91.86,82.21,895.0,DA&FW
+Gram,All India,2011-12,Total,82.99,77.02,928.0,DA&FW
+Gram,All India,2012-13,Total,85.22,88.32,1036.0,DA&FW
+Gram,All India,2013-14,Total,99.27,95.26,960.0,DA&FW
+Gram,All India,2014-15,Total,82.51,73.32,889.0,DA&FW
+Gram,All India,2015-16,Total,83.99,70.58,840.0,DA&FW
+Gram,All India,2016-17,Total,96.26,93.78,974.0,DA&FW
+Gram,All India,2017-18,Total,105.6,113.79,1078.0,DA&FW
+Gram,All India,2018-19,Total,95.44,99.38,1041.0,DA&FW
+Gram,All India,2019-20,Total,96.99,110.78,1142.0,DA&FW
+Gram,All India,2020-21,Total,99.96,119.11,1192.0,DA&FW
+Gram,All India,2021-22,Total,107.4,135.44,1261.0,DA&FW
+Gram,All India,2022-23,Total,104.71,122.67,1172.0,DA&FW
+Gram,All India,2023-24,Total,95.87,110.39,1151.0,DA&FW
+Gram,All India,2024-25,Total,91.22,111.14,1218.0,DA&FW
+Lentil,All India,1976-77,Total,8.53,3.94,461.0,DA&FW
+Lentil,All India,1977-78,Total,8.81,3.84,436.0,DA&FW
+Lentil,All India,1978-79,Total,10.06,4.46,443.0,DA&FW
+Lentil,All India,1979-80,Total,8.49,3.2,377.0,DA&FW
+Lentil,All India,1980-81,Total,9.35,4.65,498.0,DA&FW
+Lentil,All India,1981-82,Total,9.45,4.97,525.0,DA&FW
+Lentil,All India,1982-83,Total,9.96,4.89,490.0,DA&FW
+Lentil,All India,1983-84,Total,9.43,5.34,566.0,DA&FW
+Lentil,All India,1984-85,Total,9.83,5.47,557.0,DA&FW
+Lentil,All India,1985-86,Total,10.91,6.63,607.0,DA&FW
+Lentil,All India,1986-87,Total,10.87,6.59,607.0,DA&FW
+Lentil,All India,1987-88,Total,10.4,6.6,635.0,DA&FW
+Lentil,All India,1988-89,Total,10.82,7.34,678.0,DA&FW
+Lentil,All India,1989-90,Total,11.12,7.06,635.0,DA&FW
+Lentil,All India,1990-91,Total,11.88,8.51,717.0,DA&FW
+Lentil,All India,1991-92,Total,11.89,8.02,674.0,DA&FW
+Lentil,All India,1992-93,Total,12.04,7.91,657.0,DA&FW
+Lentil,All India,1993-94,Total,11.83,7.48,632.0,DA&FW
+Lentil,All India,1994-95,Total,11.56,7.84,678.0,DA&FW
+Lentil,All India,1995-96,Total,12.55,7.14,569.0,DA&FW
+Lentil,All India,1996-97,Total,13.69,9.62,702.0,DA&FW
+Lentil,All India,1997-98,Total,12.9,8.04,623.0,DA&FW
+Lentil,All India,1998-99,Total,13.89,9.38,675.0,DA&FW
+Lentil,All India,1999-00,Total,14.62,10.79,738.0,DA&FW
+Lentil,All India,2000-01,Total,14.78,9.15,619.0,DA&FW
+Lentil,All India,2001-02,Total,14.66,9.74,664.0,DA&FW
+Lentil,All India,2002-03,Total,13.77,8.73,634.0,DA&FW
+Lentil,All India,2003-04,Total,13.96,10.38,743.0,DA&FW
+Lentil,All India,2004-05,Total,14.73,9.94,675.0,DA&FW
+Lentil,All India,2005-06,Total,15.06,9.46,628.0,DA&FW
+Lentil,All India,2006-07,Total,14.7,9.13,621.0,DA&FW
+Lentil,All India,2007-08,Total,13.06,8.12,622.0,DA&FW
+Lentil,All India,2008-09,Total,13.76,9.53,693.0,DA&FW
+Lentil,All India,2009-10,Total,14.79,10.31,697.0,DA&FW
+Lentil,All India,2010-11,Total,15.97,9.43,591.0,DA&FW
+Lentil,All India,2011-12,Total,15.62,10.58,678.0,DA&FW
+Lentil,All India,2012-13,Total,14.23,11.34,797.0,DA&FW
+Lentil,All India,2013-14,Total,13.41,10.17,759.0,DA&FW
+Lentil,All India,2014-15,Total,14.69,10.35,705.0,DA&FW
+Lentil,All India,2015-16,Total,12.76,9.76,765.0,DA&FW
+Lentil,All India,2016-17,Total,14.61,12.24,838.0,DA&FW
+Lentil,All India,2017-18,Total,15.49,16.22,1047.0,DA&FW
+Lentil,All India,2018-19,Total,13.63,12.28,901.0,DA&FW
+Lentil,All India,2019-20,Total,13.03,11.03,847.0,DA&FW
+Lentil,All India,2020-21,Total,14.68,14.94,1017.0,DA&FW
+Lentil,All India,2021-22,Total,14.12,12.69,899.0,DA&FW
+Lentil,All India,2022-23,Total,16.37,15.59,952.0,DA&FW
+Lentil,All India,2023-24,Total,17.43,17.91,1028.0,DA&FW
+Lentil,All India,2024-25,Total,16.99,16.54,973.0,DA&FW
+Moong,All India,1976-77,Total,21.57,7.28,337.0,DA&FW
+Moong,All India,1977-78,Total,22.09,8.03,363.0,DA&FW
+Moong,All India,1978-79,Total,23.36,8.23,352.0,DA&FW
+Moong,All India,1979-80,Total,23.74,6.65,280.0,DA&FW
+Moong,All India,1980-81,Total,25.98,9.21,355.0,DA&FW
+Moong,All India,1981-82,Total,26.22,9.99,381.0,DA&FW
+Moong,All India,1982-83,Total,25.72,11.01,428.0,DA&FW
+Moong,All India,1983-84,Total,28.29,12.91,456.0,DA&FW
+Moong,All India,1984-85,Total,26.23,9.97,380.0,DA&FW
+Moong,All India,1985-86,Total,27.92,11.18,400.0,DA&FW
+Moong,All India,1986-87,Total,28.64,10.3,360.0,DA&FW
+Moong,All India,1987-88,Total,27.62,11.62,421.0,DA&FW
+Moong,All India,1988-89,Total,31.15,13.63,438.0,DA&FW
+Moong,All India,1989-90,Total,31.88,12.73,399.0,DA&FW
+Moong,All India,1990-91,Total,31.98,13.37,418.0,DA&FW
+Moong,All India,1991-92,Total,33.48,12.97,387.0,DA&FW
+Moong,All India,1992-93,Total,28.38,13.56,478.0,DA&FW
+Moong,All India,1993-94,Total,27.97,11.85,424.0,DA&FW
+Moong,All India,1994-95,Total,27.78,10.34,372.0,DA&FW
+Moong,All India,1995-96,Total,25.94,9.7,374.0,DA&FW
+Moong,All India,1996-97,Total,29.44,12.79,434.0,DA&FW
+Moong,All India,1997-98,Total,29.02,9.12,314.0,DA&FW
+Moong,All India,1998-99,Total,29.44,11.26,383.0,DA&FW
+Moong,All India,1999-00,Total,28.02,10.47,373.0,DA&FW
+Moong,All India,2000-01,Total,29.07,9.99,344.0,DA&FW
+Moong,All India,2001-02,Total,29.88,10.78,361.0,DA&FW
+Moong,All India,2002-03,Total,29.16,8.42,289.0,DA&FW
+Moong,All India,2003-04,Total,34.43,16.68,484.0,DA&FW
+Moong,All India,2004-05,Total,32.39,10.27,317.0,DA&FW
+Moong,All India,2005-06,Total,30.39,9.34,307.0,DA&FW
+Moong,All India,2006-07,Total,31.8,11.2,352.0,DA&FW
+Moong,All India,2007-08,Total,36.41,15.0,412.0,DA&FW
+Moong,All India,2008-09,Total,27.6,10.11,366.0,DA&FW
+Moong,All India,2009-10,Total,29.71,6.65,224.0,DA&FW
+Moong,All India,2010-11,Total,34.95,18.23,522.0,DA&FW
+Moong,All India,2011-12,Total,32.82,16.08,490.0,DA&FW
+Moong,All India,2012-13,Total,27.19,11.86,436.0,DA&FW
+Moong,All India,2013-14,Total,33.83,16.06,475.0,DA&FW
+Moong,All India,2014-15,Total,30.19,15.03,498.0,DA&FW
+Moong,All India,2015-16,Total,38.28,15.93,416.0,DA&FW
+Moong,All India,2016-17,Total,43.27,21.65,500.0,DA&FW
+Moong,All India,2017-18,Total,42.42,20.23,477.0,DA&FW
+Moong,All India,2018-19,Total,47.55,24.55,516.0,DA&FW
+Moong,All India,2019-20,Total,45.81,25.09,548.0,DA&FW
+Moong,All India,2020-21,Total,51.3,30.85,601.0,DA&FW
+Moong,All India,2021-22,Total,55.51,31.66,570.0,DA&FW
+Moong,All India,2022-23,Total,55.46,36.76,663.0,DA&FW
+Moong,All India,2023-24,Total,51.87,31.03,598.0,DA&FW
+Moong,All India,2024-25,Total,58.99,42.44,719.0,DA&FW
+Moong,All India,2025-26,Total,34.12,17.2,504.0,DA&FW
+Other Pulses,All India,1966-67,Total,115.97,35.95,310.0,DA&FW
+Other Pulses,All India,1967-68,Total,117.27,43.9,374.0,DA&FW
+Other Pulses,All India,1968-69,Total,116.3,42.93,369.0,DA&FW
+Other Pulses,All India,1969-70,Total,116.03,43.03,371.0,DA&FW
+Other Pulses,All India,1970-71,Total,120.4,47.35,393.0,DA&FW
+Other Pulses,All India,1971-72,Total,118.93,43.3,364.0,DA&FW
+Other Pulses,All India,1972-73,Total,115.24,34.42,299.0,DA&FW
+Other Pulses,All India,1973-74,Total,130.2,45.0,346.0,DA&FW
+Other Pulses,All India,1974-75,Total,124.54,41.64,334.0,DA&FW
+Other Pulses,All India,1975-76,Total,134.63,50.61,376.0,DA&FW
+Other Pulses,All India,1976-77,Total,73.53,23.94,326.0,DA&FW
+Other Pulses,All India,1977-78,Total,76.29,26.95,353.0,DA&FW
+Other Pulses,All India,1978-79,Total,76.96,25.59,333.0,DA&FW
+Other Pulses,All India,1979-80,Total,65.92,17.13,260.0,DA&FW
+Other Pulses,All India,1980-81,Total,66.55,19.93,299.0,DA&FW
+Other Pulses,All India,1981-82,Total,65.17,20.74,318.0,DA&FW
+Other Pulses,All India,1982-83,Total,60.5,19.97,330.0,DA&FW
+Other Pulses,All India,1983-84,Total,62.76,25.06,399.0,DA&FW
+Other Pulses,All India,1984-85,Total,59.39,20.53,346.0,DA&FW
+Other Pulses,All India,1985-86,Total,62.31,20.54,330.0,DA&FW
+Other Pulses,All India,1986-87,Total,179.02,65.85,368.0,DA&FW
+Other Pulses,All India,1987-88,Total,165.75,67.09,405.0,DA&FW
+Other Pulses,All India,1988-89,Total,171.87,79.17,461.0,DA&FW
+Other Pulses,All India,1989-90,Total,179.72,78.42,436.0,DA&FW
+Other Pulses,All India,1990-91,Total,182.72,87.61,479.0,DA&FW
+Other Pulses,All India,1991-92,Total,177.86,76.68,431.0,DA&FW
+Other Pulses,All India,1992-93,Total,167.02,80.75,483.0,DA&FW
+Other Pulses,All India,1993-94,Total,168.27,74.54,443.0,DA&FW
+Other Pulses,All India,1994-95,Total,159.94,74.6,466.0,DA&FW
+Other Pulses,All India,1995-96,Total,159.65,67.16,421.0,DA&FW
+Other Pulses,All India,1996-97,Total,47.66,23.29,489.0,DA&FW
+Other Pulses,All India,1997-98,Total,46.93,18.95,404.0,DA&FW
+Other Pulses,All India,1998-99,Total,43.44,19.84,457.0,DA&FW
+Other Pulses,All India,1999-00,Total,43.4,21.5,495.0,DA&FW
+Other Pulses,All India,2000-01,Total,41.34,17.63,426.0,DA&FW
+Other Pulses,All India,2001-02,Total,45.07,20.83,462.0,DA&FW
+Other Pulses,All India,2002-03,Total,33.88,15.14,447.0,DA&FW
+Other Pulses,All India,2003-04,Total,46.31,26.55,573.0,DA&FW
+Other Pulses,All India,2004-05,Total,46.48,19.66,423.0,DA&FW
+Other Pulses,All India,2005-06,Total,43.7,19.21,440.0,DA&FW
+Other Pulses,All India,2006-07,Total,44.2,20.74,469.0,DA&FW
+Other Pulses,All India,2007-08,Total,42.29,21.69,513.0,DA&FW
+Other Pulses,All India,2008-09,Total,40.19,21.02,523.0,DA&FW
+Other Pulses,All India,2009-10,Total,42.01,17.62,419.0,DA&FW
+Other Pulses,All India,2010-11,Total,44.9,26.13,582.0,DA&FW
+Other Pulses,All India,2011-12,Total,40.78,22.81,559.0,DA&FW
+Other Pulses,All India,2012-13,Total,35.47,21.96,619.0,DA&FW
+Other Pulses,All India,2013-14,Total,36.0,22.33,620.0,DA&FW
+Other Pulses,All India,2014-15,Total,37.14,25.15,677.0,DA&FW
+Other Pulses,All India,2015-16,Total,38.22,21.91,573.0,DA&FW
+Other Pulses,All India,2016-17,Total,42.17,26.57,630.0,DA&FW
+Other Pulses,All India,2017-18,Total,37.44,26.1,697.0,DA&FW
+Other Pulses,All India,2018-19,Total,33.39,20.79,623.0,DA&FW
+Other Pulses,All India,2019-20,Total,33.4,23.62,707.0,DA&FW
+Other Pulses,All India,2020-21,Total,33.22,24.27,731.0,DA&FW
+Other Pulses,All India,2021-22,Total,34.95,23.27,666.0,DA&FW
+Other Pulses,All India,2022-23,Total,31.77,26.14,823.0,DA&FW
+Other Pulses,All India,2023-24,Total,33.22,25.77,776.0,DA&FW
+Other Pulses,All India,2024-25,Total,35.08,28.04,799.0,DA&FW
+Other Pulses,All India,2025-26,Total,15.32,8.9,581.0,DA&FW
+Tur,All India,1966-67,Total,25.21,11.3,448.0,DA&FW
+Tur,All India,1967-68,Total,26.65,17.41,653.0,DA&FW
+Tur,All India,1968-69,Total,25.29,18.16,718.0,DA&FW
+Tur,All India,1969-70,Total,26.69,18.42,690.0,DA&FW
+Tur,All India,1970-71,Total,26.55,18.83,709.0,DA&FW
+Tur,All India,1971-72,Total,23.46,16.83,718.0,DA&FW
+Tur,All India,1972-73,Total,24.24,19.28,795.0,DA&FW
+Tur,All India,1973-74,Total,26.46,14.08,532.0,DA&FW
+Tur,All India,1974-75,Total,25.29,18.44,729.0,DA&FW
+Tur,All India,1975-76,Total,26.71,20.99,786.0,DA&FW
+Tur,All India,1976-77,Total,25.66,17.25,672.0,DA&FW
+Tur,All India,1977-78,Total,26.27,19.3,735.0,DA&FW
+Tur,All India,1978-79,Total,26.35,18.87,716.0,DA&FW
+Tur,All India,1979-80,Total,27.31,17.57,643.0,DA&FW
+Tur,All India,1980-81,Total,28.42,19.57,689.0,DA&FW
+Tur,All India,1981-82,Total,30.05,22.37,744.0,DA&FW
+Tur,All India,1982-83,Total,29.26,19.89,680.0,DA&FW
+Tur,All India,1983-84,Total,32.18,25.76,801.0,DA&FW
+Tur,All India,1984-85,Total,31.54,25.85,820.0,DA&FW
+Tur,All India,1985-86,Total,31.84,24.41,767.0,DA&FW
+Tur,All India,1986-87,Total,31.48,22.72,722.0,DA&FW
+Tur,All India,1987-88,Total,33.33,22.82,685.0,DA&FW
+Tur,All India,1988-89,Total,34.89,27.18,779.0,DA&FW
+Tur,All India,1989-90,Total,36.0,27.47,763.0,DA&FW
+Tur,All India,1990-91,Total,35.93,24.17,673.0,DA&FW
+Tur,All India,1991-92,Total,36.27,21.33,588.0,DA&FW
+Tur,All India,1992-93,Total,35.76,23.31,652.0,DA&FW
+Tur,All India,1993-94,Total,35.32,26.93,762.0,DA&FW
+Tur,All India,1994-95,Total,33.14,21.44,647.0,DA&FW
+Tur,All India,1995-96,Total,34.47,23.09,670.0,DA&FW
+Tur,All India,1996-97,Total,35.13,26.6,757.0,DA&FW
+Tur,All India,1997-98,Total,33.59,18.5,551.0,DA&FW
+Tur,All India,1998-99,Total,34.39,27.08,787.0,DA&FW
+Tur,All India,1999-00,Total,34.27,26.94,786.0,DA&FW
+Tur,All India,2000-01,Total,36.32,22.46,618.0,DA&FW
+Tur,All India,2001-02,Total,33.28,22.6,679.0,DA&FW
+Tur,All India,2002-03,Total,33.59,21.86,651.0,DA&FW
+Tur,All India,2003-04,Total,35.16,23.56,670.0,DA&FW
+Tur,All India,2004-05,Total,35.19,23.47,667.0,DA&FW
+Tur,All India,2005-06,Total,35.81,27.38,765.0,DA&FW
+Tur,All India,2006-07,Total,35.62,23.14,650.0,DA&FW
+Tur,All India,2007-08,Total,37.26,30.76,826.0,DA&FW
+Tur,All India,2008-09,Total,33.78,22.66,671.0,DA&FW
+Tur,All India,2009-10,Total,34.66,24.65,711.0,DA&FW
+Tur,All India,2010-11,Total,43.67,28.61,655.0,DA&FW
+Tur,All India,2011-12,Total,40.07,26.54,662.0,DA&FW
+Tur,All India,2012-13,Total,38.93,30.23,776.0,DA&FW
+Tur,All India,2013-14,Total,39.04,31.74,813.0,DA&FW
+Tur,All India,2014-15,Total,38.54,28.07,729.0,DA&FW
+Tur,All India,2015-16,Total,39.63,25.61,646.0,DA&FW
+Tur,All India,2016-17,Total,53.38,48.73,913.0,DA&FW
+Tur,All India,2017-18,Total,44.38,42.9,967.0,DA&FW
+Tur,All India,2018-19,Total,45.5,33.15,729.0,DA&FW
+Tur,All India,2019-20,Total,45.32,38.92,859.0,DA&FW
+Tur,All India,2020-21,Total,47.24,43.16,914.0,DA&FW
+Tur,All India,2021-22,Total,49.0,42.2,861.0,DA&FW
+Tur,All India,2022-23,Total,40.68,33.12,814.0,DA&FW
+Tur,All India,2023-24,Total,41.31,34.17,827.0,DA&FW
+Tur,All India,2024-25,Total,43.36,36.24,836.0,DA&FW
+Tur,All India,2025-26,Total,40.58,35.97,887.0,DA&FW
+Urad,All India,1976-77,Total,20.74,6.93,334.0,DA&FW
+Urad,All India,1977-78,Total,21.72,7.47,344.0,DA&FW
+Urad,All India,1978-79,Total,22.74,7.27,320.0,DA&FW
+Urad,All India,1979-80,Total,27.19,7.57,278.0,DA&FW
+Urad,All India,1980-81,Total,28.3,9.59,339.0,DA&FW
+Urad,All India,1981-82,Total,27.76,10.1,364.0,DA&FW
+Urad,All India,1982-83,Total,27.71,9.98,360.0,DA&FW
+Urad,All India,1983-84,Total,29.98,11.92,398.0,DA&FW
+Urad,All India,1984-85,Total,29.06,11.63,400.0,DA&FW
+Urad,All India,1985-86,Total,31.87,12.39,389.0,DA&FW
+Urad,All India,1986-87,Total,31.53,12.43,394.0,DA&FW
+Urad,All India,1987-88,Total,30.16,12.91,428.0,DA&FW
+Urad,All India,1988-89,Total,33.18,16.2,488.0,DA&FW
+Urad,All India,1989-90,Total,33.57,15.68,467.0,DA&FW
+Urad,All India,1990-91,Total,34.83,16.46,473.0,DA&FW
+Urad,All India,1991-92,Total,34.18,14.98,438.0,DA&FW
+Urad,All India,1992-93,Total,30.23,15.31,506.0,DA&FW
+Urad,All India,1993-94,Total,30.5,14.03,460.0,DA&FW
+Urad,All India,1994-95,Total,28.02,11.43,408.0,DA&FW
+Urad,All India,1995-96,Total,28.0,13.22,472.0,DA&FW
+Urad,All India,1996-97,Total,30.07,13.48,448.0,DA&FW
+Urad,All India,1997-98,Total,30.64,13.78,450.0,DA&FW
+Urad,All India,1998-99,Total,29.16,13.5,463.0,DA&FW
+Urad,All India,1999-00,Total,29.39,13.31,453.0,DA&FW
+Urad,All India,2000-01,Total,30.11,12.96,431.0,DA&FW
+Urad,All India,2001-02,Total,33.03,14.99,454.0,DA&FW
+Urad,All India,2002-03,Total,35.5,14.74,415.0,DA&FW
+Urad,All India,2003-04,Total,34.24,14.71,430.0,DA&FW
+Urad,All India,2004-05,Total,31.69,13.27,419.0,DA&FW
+Urad,All India,2005-06,Total,29.69,12.45,419.0,DA&FW
+Urad,All India,2006-07,Total,30.67,14.43,470.0,DA&FW
+Urad,All India,2007-08,Total,31.88,14.57,457.0,DA&FW
+Urad,All India,2008-09,Total,26.7,11.75,440.0,DA&FW
+Urad,All India,2009-10,Total,29.77,12.53,421.0,DA&FW
+Urad,All India,2010-11,Total,32.67,17.79,545.0,DA&FW
+Urad,All India,2011-12,Total,32.34,17.85,552.0,DA&FW
+Urad,All India,2012-13,Total,31.53,19.71,625.0,DA&FW
+Urad,All India,2013-14,Total,30.64,17.0,555.0,DA&FW
+Urad,All India,2014-15,Total,32.48,19.61,604.0,DA&FW
+Urad,All India,2015-16,Total,36.24,19.45,537.0,DA&FW
+Urad,All India,2016-17,Total,44.78,28.32,632.0,DA&FW
+Urad,All India,2017-18,Total,52.79,34.92,662.0,DA&FW
+Urad,All India,2018-19,Total,56.02,30.6,546.0,DA&FW
+Urad,All India,2019-20,Total,45.33,20.81,459.0,DA&FW
+Urad,All India,2020-21,Total,41.43,22.3,538.0,DA&FW
+Urad,All India,2021-22,Total,46.33,27.76,599.0,DA&FW
+Urad,All India,2022-23,Total,40.02,26.31,657.0,DA&FW
+Urad,All India,2023-24,Total,35.36,23.19,656.0,DA&FW
+Urad,All India,2024-25,Total,31.57,22.42,710.0,DA&FW
+Urad,All India,2025-26,Total,19.33,12.05,623.0,DA&FW
